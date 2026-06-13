@@ -2,7 +2,7 @@
 
 # SAP AppGyver - Visual Low-Code App Building with SAP Integration
 
-Download appgyver login access to build web and mobile workflows with AppGyverÃ¢ÂÂs visual tools, data resources, logic flows, and integrations. Explore a flexible appgyver app builder for rapid prototypes, internal tools, and production-ready business apps without complex setup.
+Download appgyver login access to build web and mobile workflows with AppGyver visual tools, data resources, logic flows, and integrations. Explore a flexible appgyver app builder for rapid prototypes, internal tools, and production-ready business apps without complex setup.
 
 At a glance:
 - Visual development for web and mobile apps with sap appgyver support  
